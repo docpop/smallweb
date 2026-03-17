@@ -34458,3 +34458,7 @@ https://hesec.de/posts/index.xml
 https://oldboy21.github.io/posts/index.xml
 https://r1ru.github.io/feed.xml
 https://hkopp.github.io/rss.xml
+https://docpop.org/feed/
+https://gregpak.net/feed/
+https://blog.glei.tz/index.xml
+http://cartoonistconspiracysf.wordpress.com/feed
